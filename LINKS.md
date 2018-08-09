@@ -21,3 +21,8 @@ https://github.com/willschipp/session-sample-app
 https://github.com/willschipp/sample-oauth2-server
 
 https://github.com/willschipp/sample-oauth2-resource
+
+
+## CUPS links
+
+https://www.slideshare.net/DariuszLorenc/good-cups-bad-cups-how-spring-boot-wires-in-user-provided-services-on-cloud-foundry
